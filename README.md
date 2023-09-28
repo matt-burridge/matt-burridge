@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @matt-burridge
-- 👀 I’m interested in; Seriously deep diving into learning to code, I realize that it might be handy to get a job which relies heavily on the skills and use of
-coding and I also always had a bit of an affinity for tech and computers. 
-- 🌱 I’m currently learning to be a better learner, I am tinkering about with using GIT to be a better team coder, I am refreshing myself on JS throughly and then branching out to Typescript and Angular, and want to make some application graphics using react.js. Past that I am hoping on really deep diving into python and starting more data visual orientated projects. Something that I have noticed when I try to learn new things especially as a grown-up is that I can intensely learn something for a few weeks and do things with it, but then I require to use what I have learned 6 months later and a little bit like speaking French all that I learned dissapears until I refresh myself again, is that something other people deal with too? I sort of pick it up quicker the subsequent times but it feels like you really need to hammer concepts and understanding a large amount to get it to stick.
-- 💞️ I’m looking to collaborate on small projects where we could learn and shape something cool.
-- 📫 How to reach me - just mail to matt.burridge17@gmail.com and use the subject coding to peak my attention
+- 👀 I’m interested in; learning to code, as a way to solve problems and then learn from the next wave of problems that crop up! I've an affinity for tech and computers, and figuring more about the hardware side of things interests me too. 
+- 🌱 I’m currently learning to be a better learner, I am tinkering about with using GIT to be a better team coder, I am at an experiemental phase I guess, picking up things and trying to learn how it works.
+- 💞️ I’m looking to learn more by myself before I can contribute something of value to anothers code base.
+- I do get urges to segway into side projects periodoically, whether it is with gamedev, art, 3d graphics, or solving a need and inventing a solution sometimes I try to make something. 
+- 📫 How to reach me - just mail to matt.burridge17@gmail.com and put coding somewhere in the subject.
 
 <!---
 matt-burridge/matt-burridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
